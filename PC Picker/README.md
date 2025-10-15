@@ -2,9 +2,9 @@
 
 ## Podaci o studentu
 
-Ime i prezime | E-mail adresa (FOI) | JMBAG | Github korisničko ime
-------------  | ------------------- | ----- | ---------------------
-Dorijan Gegač | dgegac23@foi.hr | 0016165665 | DorijanGegac
+Ime i prezime | E-mail adresa (FOI) | Github korisničko ime
+------------  | ------------------- | ---------------------
+Dorijan Gegač | dgegac23@foi.hr | DorijanGegac
 
 ## Korisnički podaci za prijavu u aplikaciju
 Korisničko ime: ivoivic <br>
